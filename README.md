@@ -1,1 +1,2 @@
-Repositorio del proyecto final de ping pong del grupo 2
+# Repositorio del proyecto de Pyng P0ng 
+Desarrollado por: Joan Alejandro Muñoz Bejarano
